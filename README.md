@@ -65,7 +65,7 @@ A horizontal bar chart comparing average resolution time by call type. **Softwar
 
 ## 📌 Dashboard Screenshot
 
-![Call Performance Analysis Dashboard](Call_Performance_Analysis.png)
+![Call Performance Analysis Dashboard](Call Performance Analysis.png)
 
 ---
 
