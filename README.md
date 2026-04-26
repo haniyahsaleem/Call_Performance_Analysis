@@ -1,6 +1,6 @@
 # 📊 Call Performance Analysis Dashboard
 
-An interactive Tableau dashboard analysing call centre performance across three locations — **Austin, Dallas, and Houston** — tracking resolution times, call volumes, and resolution rates by call type.
+An interactive Tableau dashboard analysing call centre performance across three locations (**Austin, Dallas, and Houston**) tracking resolution times, call volumes, and resolution rates by call type.
 
 ---
 
